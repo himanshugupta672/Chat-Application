@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910172212042",
+    "project_id": "chitthiapplication",
+    "storage_bucket": "chitthiapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910172212042:android:b201c852e3b2150c1d0fb3",
+        "android_client_info": {
+          "package_name": "com.example.chitthi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxVrh290whTEu1q7pnRzh1O84GKvjyzcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
